@@ -2,10 +2,11 @@ for starting backend
 `
  npm run dev
 `
-
-for starting backend 
+s
+for starting backend s
 
 `
- cd Client-Side
+ cd Client-Sidex
  npm run dev
 `
+Add your mongodb connector in .env file
